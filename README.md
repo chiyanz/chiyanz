@@ -1,9 +1,9 @@
-👋 Hello, I'm Jonathan Zhou
-🔭 I’m currently working on a [Quiz app](https://github.com/agiledev-students-spring-2023/final-project-quizverse), [diet recommendation app](https://github.com/chiyanz/Diet-App), and a [TFT stats tracker](https://github.com/chiyanz/tft-tracker).
-🌱 I’m currently learning Python webscrapping, Andriod app development, Machine Learning and Data Science.
-👀I'm currently looking for internships for front-end/back-end development, software development, and data science.
-👯 I’m looking to collaborate on any fun projects!
-📫 How to reach me: jonathan.zhou.qyz@gmail.com
+* 👋 Hello, I'm Jonathan Zhou
+* 🔭 I’m currently working on a [Quiz app](https://github.com/agiledev-students-spring-2023/final-project-quizverse), [diet recommendation app](https://github.com/chiyanz/Diet-App), and a [TFT stats tracker](https://github.com/chiyanz/tft-tracker).
+* 🌱 I’m currently learning Python webscrapping, Andriod app development, Machine Learning and Data Science.
+* 👀I'm currently looking for internships for front-end/back-end development, software development, and data science.
+* 👯 I’m looking to collaborate on any fun projects!
+* 📫 How to reach me: jonathan.zhou.qyz@gmail.com
 
 
 <!--
